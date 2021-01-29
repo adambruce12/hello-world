@@ -1,2 +1,2 @@
 # hello-world
-First GitHub repository
+This is where an About Me section would go.
